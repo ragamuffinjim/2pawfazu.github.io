@@ -1,0 +1,43 @@
+#+TITLE: Jim's Digital Garden
+#+AUTHOR: James D. Morgan
+#+DATE: 2024-05-26
+#+EMAIL: ragamuffinjim@gmail.com
+
+* Welcome to Jim's Digital Garden
+
+** Pre-ramble
+
+For a couple of years now we've all griped about what social media has done to both the internet and meatspace. Many people have made various proposals on how to fix the situation. None have been very successful. I believe that a return to the /small web/ will lessen the tension. The /small web/ harkens back to the day when everyone had a website of their own, followed each other via RSS, and communicated with each other by email. Today's internet gives us blogs for websites, Facebook for RSS, and a myriad of choices to replace email. The modern web has divided people rather than united them and it has locked people into walled gardens where we all conform in order to avoid the divisiveness of the modern world. Where we are now is boring. Everyone does and says the same things, or at least the algorithms that permeate every aspect of our lives makes us think so. 
+
+It is time to break the cycle.
+
+Rather than starting a blog my intention is to create a /digital garden./ For lack of a better definition a digital garden is a place somewhere between a blog and a digital notebook. It is not a place that will be chronological, per se. It may not see regular "polished" updates, though it will be updated frequently. It is place where you can see what I am interested in and learning about. A digital graden is a journey, not a finished project. Hyperlinks will be important. Think of it as more of a [[https://en.wikipedia.org/wiki/Wiki][wiki]] than a blog.
+
+** How?
+
+Mostly this will be edited in a text editor called [[https://www.gnu.org/software/emacs/][Emacs]]. This is not out of any special belief that Emacs is better than anything else out there. In fact, the text editor part of Emacs kind of sucks. I do like [[https://orgmode.org/][Org-Mode]] though and Emacs is the only editor out there that has a full implementation of it. I can type a page out in org-mode and hit a couple of buttons and *POOF* I have a page that you can read in your web browser.
+
+Right now I am pounding this out for local consumption but soon I will probably be putting this online using [[https://github.com][github pages]].
+
+** Why?
+
+Every so often a quote pops up online that says something like "Be the change you want to see in the world." Often this quote is attributed to Gandhi but it is generally doubted that he said it, or at least said it in exactly those words. I want a quiet, intelligent, peaceful, online experience and this is my attempt at being the change that I want to see in the world.
+
+For those interested the actual quote, which is actually quite good in itself, by Gandhi is:
+
+#+BEGIN_QUOTE
+“We but mirror the world. All the tendencies present in the outer world are to be found in the world of our body. If we could change ourselves, the tendencies in the world would also change. As a man changes his own nature, so does the attitude of the world change towards him. This is the divine mystery supreme. A wonderful thing it is and the source of our happiness. We need not wait to see what others do.” – Mahatma Gandhi
+#+END_QUOTE
+
+** Who?
+
+I am nobody important. I am just a guy. I am no idealist or radical anything. I guess I have a slight creative streak and what good is creativity if you don't share it with someone?
+
+*** IRL
+
+I am a husband and father. I read a lot. I am a cabinetmaker by trade. I always dreamed about being a writer. My interests are eclectic and include, but are not limited to, chess, esperanto, woodworking, web development, Fediverse, FOSS, and a great host of other stuff that will end up being planted in this garden.
+
+*** Online 
+
+Online I have built several webpages, tinkered around with some dev work, contributed to wikis, been highly active on [[https://en.wikipedia.org/wiki/Fediverse][The Fediverse]], and several other things. I have been online for a long time and have done a ton of stuff.
+
